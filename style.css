@@ -1,0 +1,17 @@
+.newRow{
+	padding-top: 5%;
+}
+
+img:hover{
+	cursor: pointer;
+}
+
+img{
+	margin:0 auto;
+}
+
+.selected{
+	border-color: orange;
+  	border-style: dashed;
+  	border-width: 5px;
+}
